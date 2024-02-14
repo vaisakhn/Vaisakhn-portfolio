@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Vaisakhn-portfolio/static/css/main.f1b575a8.css",
+    "main.js": "/Vaisakhn-portfolio/static/js/main.11032b4f.js",
+    "static/js/592.ae83c5ca.chunk.js": "/Vaisakhn-portfolio/static/js/592.ae83c5ca.chunk.js",
+    "static/media/about.png": "/Vaisakhn-portfolio/static/media/about.619ff0b319a55d0c05b1.png",
+    "static/media/hero.png": "/Vaisakhn-portfolio/static/media/hero.f14f30c6d01a97df04f6.png",
+    "static/media/resume.jpg": "/Vaisakhn-portfolio/static/media/resume.40d9ec3d0701d254f50f.jpg",
+    "static/media/tour.jpg": "/Vaisakhn-portfolio/static/media/tour.aaaad9934325d0740837.jpg",
+    "static/media/food-ecommerce.jpg": "/Vaisakhn-portfolio/static/media/food-ecommerce.326353bf18adc9f60576.jpg",
+    "static/media/ecommerce-websites.jpg": "/Vaisakhn-portfolio/static/media/ecommerce-websites.a5d17e54a5ffb19ff686.jpg",
+    "index.html": "/Vaisakhn-portfolio/index.html",
+    "main.f1b575a8.css.map": "/Vaisakhn-portfolio/static/css/main.f1b575a8.css.map",
+    "main.11032b4f.js.map": "/Vaisakhn-portfolio/static/js/main.11032b4f.js.map",
+    "592.ae83c5ca.chunk.js.map": "/Vaisakhn-portfolio/static/js/592.ae83c5ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1b575a8.css",
+    "static/js/main.11032b4f.js"
+  ]
+}
